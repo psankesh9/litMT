@@ -1,6 +1,6 @@
 # LitMT
 
-This repo contains the instructions for how to reproduce the literary translation dataset and experiments from our paper "An Analysis of Literary Translation Style: Examining English Translations of Russian Classics" (Katsy, Vogler, Berg-Kirkpatrick), as well as the results of our work.
+This repo contains the instructions for how to reproduce the literary translation dataset and experiments from our paper "An Analysis of Literary Translation Style: Examining English Translations of Russian Classics" (Katsy, Vogler, Sankeshi, Berg-Kirkpatrick), as well as the results of our work.
 
 ## Table of Contents
   * [Our Work](#our-work)
